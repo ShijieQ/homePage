@@ -1,0 +1,23 @@
+{
+  "id": "1692138",
+  "name": "Travel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "Travel项目tu'biao",
+  "glyphs": [
+    {
+      "icon_id": "7766763",
+      "name": "icon_more",
+      "font_class": "icon_more",
+      "unicode": "eb98",
+      "unicode_decimal": 60312
+    },
+    {
+      "icon_id": "7766764",
+      "name": "icon_left",
+      "font_class": "icon_left",
+      "unicode": "eb99",
+      "unicode_decimal": 60313
+    }
+  ]
+}
